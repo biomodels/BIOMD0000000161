@@ -1,0 +1,32 @@
+
+
+The model reproduces the time profiles of Golgi Ras-GTP and plasma membrane
+Ras-GTP, subjected to a palmitoylation rate of 0.00015849 second inverse. This
+is depicted in Fig 5a and 5b for various palmitolylation rates, however the
+value used in this model is not present in the figure in the paper but
+corresponds to Fig S2 of the supplement. Model successfully reproduced using
+MathSBML. Please note that the units of volumetric species in this model are
+molecules/micrometer cubed, to convert this to microMolar as given in the
+paper, multiply the simulation result by 1/602.
+
+  
+
+To the extent possible under law, all copyright and related or neighbouring
+rights to this encoded model have been dedicated to the public domain
+worldwide. Please refer to [CC0 Public Domain
+Dedication](http://creativecommons.org/publicdomain/zero/1.0/) for more
+information.
+
+In summary, you are entitled to use this encoded model in absolutely any
+manner you deem suitable, verbatim, or with modification, alone or embedded it
+in a larger context, redistribute it, commercially or not, in a restricted way
+or not.
+
+  
+
+To cite BioModels Database, please use: [Li C, Donizelli M, Rodriguez N,
+Dharuri H, Endler L, Chelliah V, Li L, He E, Henry A, Stefan MI, Snoep JL,
+Hucka M, Le Novère N, Laibe C (2010) BioModels Database: An enhanced, curated
+and annotated resource for published quantitative kinetic models. BMC Syst
+Biol., 4:92.](http://www.ncbi.nlm.nih.gov/pubmed/20587024)
+
